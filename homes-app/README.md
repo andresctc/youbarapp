@@ -15,6 +15,11 @@
 
   `npm install` 
 
+-Run Service
+  `json-server --watch db.json`
+
 - Run the application 
 
   `ng serve`
+
+  
